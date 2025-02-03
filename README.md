@@ -18,8 +18,6 @@ This project consists of an employee portal with a backend and a frontend. The p
 3. Start the backend server:
   node server.js
   
-4. The server will run on `http://localhost:5000` (default port, configurable in `config.js`).
-  
 
 ## Frontend Setup
 
